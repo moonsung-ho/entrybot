@@ -1,2 +1,1 @@
-# entrybot
-Entrybot Discord bot. 
+이것은 엔트리봇을 자신의 서버에 설치할수 있게 해주는 사이트입니다.
