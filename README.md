@@ -1,0 +1,2 @@
+# entrybot
+Entrybot Discord bot. 
